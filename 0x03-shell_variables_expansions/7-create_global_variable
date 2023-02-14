@@ -1,2 +1,2 @@
 #!/lbin/bash
-echo $((2#$BEST SCHOOL))
+echo $(($BEST SCHOOL))
