@@ -1,2 +1,2 @@
 #!/lbin/bash
-echo $(($BEST SCHOOL))
+export BEST="School"
